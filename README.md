@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Omar Ayman</h1>
-<h2 align="center">A passionate software engineer & full-stack developer from Egypt</h3>
-<h3 align="center">B.sc in Software Engineering, Mansoura University</h3>
+<h2 align="center">A passionate software engineer & full-stack developer from Egypt</h2>
+<h3 align="center">B.Sc in Software Engineering, Mansoura University</h3>
 
 - 🌱 I’m currently learning **React.js and Node.js**
 
